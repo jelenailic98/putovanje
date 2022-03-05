@@ -2,7 +2,7 @@
 
 ## Aktivna pitanja: 
     1) smestaj sva 3 grada
-    2) transport do budimpeste i nazad za nas 5
+    x) transport do budimpeste i nazad za nas 5
     3) transport porto - lisabon
     4) napisati plan/ture sta obici i gde jesti 
     5) covid requirement
@@ -24,6 +24,15 @@
 
 
 ## Smestaj
+
+* Madrid 
+
+    https://www.airbnb.com/rooms/19580114?adults=6&check_in=2022-04-25&check_out=2022-04-28&federated_search_id=13dea8f4-67f7-4a35-a3e7-9aaa787a25eb&source_impression_id=p3_1646484363_fz7e63Yg0cxoX0U1
+
+* Lisabon
+
+* Port
+
 
 ## Bus prevoznik BG-BU
 
