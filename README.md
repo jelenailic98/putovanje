@@ -27,6 +27,10 @@
 
 ## Bus prevoznik BG-BU
 
+* Tera - 2 ned pred put rezervisati, 35e po smeru po osobi. Polazak 21-22. Uskrs ne figurira nista 
+
+* Gea turs - nedelju prerd put rez, 35e. Sve isto
+
 ## Transport PO-LI
 ### Bus
 ### Rent-A-Car
